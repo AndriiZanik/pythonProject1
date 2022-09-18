@@ -40,3 +40,4 @@ json_data = {
 
 response = requests.post('https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search', headers=headers, json=json_data)
 res = json.dumps(response.json(), indent=4, ensure_ascii=False)
+#JFHSRLFH
